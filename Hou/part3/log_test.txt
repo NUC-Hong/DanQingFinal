@@ -1,0 +1,9 @@
+================ (Sun Jan 19 08:13:41 2025) ================
+加载最后一个检查点...
+Eval Historical_best_f1 = 0.9603 (at epoch 121)
+
+开始 evaluation...
+Is_training: False. [1,167],  running_mf1: 0.97425
+Is_training: False. [101,167],  running_mf1: 0.96833
+acc: 0.98241 miou: 0.92133 mf1: 0.95807 iou_0: 0.98023 iou_1: 0.86242 F1_0: 0.99002 F1_1: 0.92613 precision_0: 0.98512 precision_1: 0.96152 recall_0: 0.99497 recall_1: 0.89325 
+
